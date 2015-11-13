@@ -14,7 +14,7 @@ module SpreeProductAssembly
       #  Dir.glob(File.join(File.dirname(__FILE__), "../../lib/**/*_serializer.rb")) do |serializer|
       #    Rails.env.production? ? require(serializer) : load(serializer)
       #  end
-      end
+      #end
     end
 
     config.to_prepare &method(:activate).to_proc
