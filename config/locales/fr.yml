@@ -10,5 +10,5 @@ fr:
     product_bundles: Ensembles du produit
     parts_included: Les pièces comprises
     part_of_bundle: 'Une partie du %{sku}'
-    selected_quantity_not_available:
-    user_selectable:
+    selected_quantity_not_available: Quantité sélectionnée indisponible
+    user_selectable: Utilisateur sélectionable
